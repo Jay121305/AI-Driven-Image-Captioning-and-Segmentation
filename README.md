@@ -5,7 +5,9 @@ This project is an advanced web application that leverages the power of the Goog
 
 The application also includes accessibility features like caption translation and text-to-speech, and allows users to download a comprehensive visual report of the analysis.
 
-![Screenshot of the application interface analyzing a city street](https://i.imgur.com/kS9QW5z.png)
+![Screenshot of the application interface analyzing a city street]<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5a9d6b95-191e-4723-9bfa-162e14a5fa66" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c9ffb780-771e-4cd2-8b59-ad79cbdc0813" />
+
 
 ---
 
