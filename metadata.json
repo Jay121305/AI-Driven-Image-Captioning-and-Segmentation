@@ -1,0 +1,7 @@
+{
+  "name": "AI Image Captioning and Segmentation",
+  "description": "An application that uses AI to generate descriptive captions and perform object segmentation on user-uploaded images, showcasing the power of computer vision and natural language processing.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
